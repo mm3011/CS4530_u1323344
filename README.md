@@ -1,1 +1,3 @@
-# CS4530_u1323344
+Name: Matthew Miller
+uID: u1323344
+GitHub Username: mm3011
