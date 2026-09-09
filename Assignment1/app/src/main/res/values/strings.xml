@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+
+    <!-- Labels for the five buttons on the first screen -->
+    <string name="button_one">One</string>
+    <string name="button_two">Two</string>
+    <string name="button_three">Three</string>
+    <string name="button_four">Four</string>
+    <string name="button_five">Five</string>
+
+    <!-- Prompt shown above the buttons -->
+    <string name="first_screen_prompt">Pick your favorite number:</string>
+
+    <!-- Chosen button's label display -->
+    <string name="selection_message">You selected: %1$s</string>
+
+    <string name="button_go_back">Go Back</string>
+</resources>

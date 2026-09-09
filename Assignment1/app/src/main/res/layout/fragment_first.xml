@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/first_screen_prompt"
+        android:textSize="20sp" />
+
+    <!--
+        Five buttons.
+    -->
+    <Button
+        android:id="@+id/button_one"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_one" />
+
+    <Button
+        android:id="@+id/button_two"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_two" />
+
+    <Button
+        android:id="@+id/button_three"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_three" />
+
+    <Button
+        android:id="@+id/button_four"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_four" />
+
+    <Button
+        android:id="@+id/button_five"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_five" />
+
+</LinearLayout>
